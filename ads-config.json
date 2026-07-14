@@ -1,11 +1,11 @@
 {
     "kill_switch": false,
-    "ads_enabled": false,
+    "ads_enabled": true,
     "att_required_before_bidding": true,
     "interstitial_every_n_wallpapers": 4,
     "min_seconds_between_interstitials": 60,
     "app_keys": {
-        "ios": "REPLACE_WITH_LEVELPLAY_IOS_APP_KEY",
+        "ios": "2730c52b5",
         "android": "REPLACE_WITH_LEVELPLAY_ANDROID_APP_KEY"
     },
     "networks": {
@@ -17,14 +17,14 @@
         "banner": {
             "enabled": true,
             "ad_unit_id": {
-                "ios": "REPLACE_WITH_LEVELPLAY_IOS_BANNER_AD_UNIT_ID",
+                "ios": "1d688uoke3mdmmwl",
                 "android": "REPLACE_WITH_LEVELPLAY_ANDROID_BANNER_AD_UNIT_ID"
             }
         },
         "interstitial": {
             "enabled": true,
             "ad_unit_id": {
-                "ios": "REPLACE_WITH_LEVELPLAY_IOS_INTERSTITIAL_AD_UNIT_ID",
+                "ios": "3nw9kvhc8dfkcm24",
                 "android": "REPLACE_WITH_LEVELPLAY_ANDROID_INTERSTITIAL_AD_UNIT_ID"
             }
         }
