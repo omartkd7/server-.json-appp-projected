@@ -62,5 +62,21 @@
         "depthEffect": false,
         "width": 1290,
         "height": 2796
+    },
+    {
+        "id": "srv5",
+        "title": "[SERVER] Frosted Glass",
+        "thumbnailUrl": "https://i.pinimg.com/736x/be/78/6c/be786cb023f17a056c3f12cb25ec7da4.jpg",
+        "fullUrl": "https://i.pinimg.com/736x/be/78/6c/be786cb023f17a056c3f12cb25ec7da4.jpg",
+        "tags": [
+            "server",
+            "minimal",
+            "abstract"
+        ],
+        "category": "minimal",
+        "lockscreenOptimized": true,
+        "depthEffect": false,
+        "width": 1290,
+        "height": 2796
     }
 ]
