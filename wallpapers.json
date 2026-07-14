@@ -1,0 +1,50 @@
+[
+    {
+        "id": "srv1",
+        "title": "[SERVER] Golden Canyon",
+        "thumbnailUrl": "https://i.pinimg.com/control1/736x/c8/06/d5/c806d58879926807151297a162228544.jpg",
+        "fullUrl": "https://i.pinimg.com/control1/736x/c8/06/d5/c806d58879926807151297a162228544.jpg",
+        "tags": [
+            "server",
+            "nature",
+            "canyon"
+        ],
+        "category": "nature",
+        "lockscreenOptimized": true,
+        "depthEffect": false,
+        "width": 1290,
+        "height": 2796
+    },
+    {
+        "id": "srv2",
+        "title": "[SERVER] Violet Nebula",
+        "thumbnailUrl": "https://i.pinimg.com/1200x/c8/af/66/c8af66ac073b73d7dbaf70c80b8407be.jpg",
+        "fullUrl": "https://i.pinimg.com/1200x/c8/af/66/c8af66ac073b73d7dbaf70c80b8407be.jpg",
+        "tags": [
+            "server",
+            "dark",
+            "space"
+        ],
+        "category": "dark",
+        "lockscreenOptimized": true,
+        "depthEffect": true,
+        "width": 1290,
+        "height": 2796
+    },
+    {
+        "id": "srv3",
+        "title": "[SERVER] Frosted Glass",
+        "thumbnailUrl": "https://i.pinimg.com/control1/736x/c8/06/d5/c806d58879926807151297a162228544.jpg",
+        "fullUrl": "https://i.pinimg.com/control1/736x/c8/06/d5/c806d58879926807151297a162228544.jpg",
+        "tags": [
+            "server",
+            "minimal",
+            "abstract"
+        ],
+        "category": "minimal",
+        "lockscreenOptimized": true,
+        "depthEffect": false,
+        "width": 1290,
+        "height": 2796
+    }
+]

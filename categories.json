@@ -1,0 +1,23 @@
+[
+    {
+        "id": "nature",
+        "name": "Nature",
+        "emoji": "🌿",
+        "coverUrl": "https://picsum.photos/seed/srv-canyon/600/400",
+        "wallpaperCount": 1
+    },
+    {
+        "id": "dark",
+        "name": "Dark / OLED",
+        "emoji": "🌑",
+        "coverUrl": "https://picsum.photos/seed/srv-nebula/600/400",
+        "wallpaperCount": 1
+    },
+    {
+        "id": "minimal",
+        "name": "Minimal",
+        "emoji": "◻️",
+        "coverUrl": "https://picsum.photos/seed/srv-glass/600/400",
+        "wallpaperCount": 1
+    }
+]

@@ -1,0 +1,32 @@
+{
+    "kill_switch": false,
+    "ads_enabled": false,
+    "att_required_before_bidding": true,
+    "interstitial_every_n_wallpapers": 4,
+    "min_seconds_between_interstitials": 60,
+    "app_keys": {
+        "ios": "REPLACE_WITH_LEVELPLAY_IOS_APP_KEY",
+        "android": "REPLACE_WITH_LEVELPLAY_ANDROID_APP_KEY"
+    },
+    "networks": {
+        "admob": true,
+        "meta": true,
+        "unity_ads": true
+    },
+    "placements": {
+        "banner": {
+            "enabled": true,
+            "ad_unit_id": {
+                "ios": "REPLACE_WITH_LEVELPLAY_IOS_BANNER_AD_UNIT_ID",
+                "android": "REPLACE_WITH_LEVELPLAY_ANDROID_BANNER_AD_UNIT_ID"
+            }
+        },
+        "interstitial": {
+            "enabled": true,
+            "ad_unit_id": {
+                "ios": "REPLACE_WITH_LEVELPLAY_IOS_INTERSTITIAL_AD_UNIT_ID",
+                "android": "REPLACE_WITH_LEVELPLAY_ANDROID_INTERSTITIAL_AD_UNIT_ID"
+            }
+        }
+    }
+}
