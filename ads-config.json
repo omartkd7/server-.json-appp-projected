@@ -1,6 +1,6 @@
 {
     "kill_switch": false,
-    "ads_enabled": true,
+    "ads_enabled": false,
     "att_required_before_bidding": true,
     "interstitial_every_n_wallpapers": 4,
     "min_seconds_between_interstitials": 60,
